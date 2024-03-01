@@ -34,3 +34,6 @@ Matplotlib
 Dataset provided by:
 
 public SpineWeb (http://spineweb.digitalimaginggroup.ca)
+
+# Results
+Visually in figures, the illustration serves as a qualitative showcase of models proficiency in detecting spinal landmarks.
