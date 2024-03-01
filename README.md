@@ -5,3 +5,11 @@ Spinal deformities are diagnosed essentially from vertebral shapes, orientations
 Deep learning could be applied for automatic diagnosis to detect scoliosis and its variants with a favourable performance. In this study, based on 609 spinal anterior-posterior x-ray images obtained from the public SpineWeb (http://spineweb.digitalimaginggroup.ca), we examine Generative Adversarial Network based architectures and Convolutional Neural Networkbased architectures models that are capable of automatically detecting anomalies in radiograph and achieve expert-level performances in various fields providing a solid comparative study.
 Most of the implemented models are apt to automatically distinguish limits between vertebrae so determining their shape with a very good visual performance. The GAN-based architecture estimates the required vertebral landmarks with an accuracy rate of 0.966, signify its capacity for automatic scoliosis assessment in a clinical setting.
 
+# Methods
+To achieve our objective, we implemented state-of-the-art GANs and CNNs, most famous families in Deep Learning, tailored to the unique challenges of spinal deformity detection. Our approach involved fine-tuning the models using different techniques notably data augmentation techniques to effectively capture the intricate features indicative of various deformity types. This adaptation process was crucial, as existing models were not specifically designed for this mission. We chose GANs for their potential to generate synthetic data, which we anticipated would enhance the models' performance in detecting subtle deformities.
+
+# Overview of GAN
+Generative Adversarial Networks (GAN) introduced by Goodfellow is considered as one of the most powerful member of the neural network family, due to realistic data generation capacities.
+As showen in figure GANs operate by training two competing networks: a generator and a discriminator. The generator produces realistic synthetic samples from noise (the z-latent space), while the discriminator discerns between genuine and synthetic samples. This flexible architecture has been utilized for tasks like identifying the location of vertebrae, discs, and spinal shape.
+
+
