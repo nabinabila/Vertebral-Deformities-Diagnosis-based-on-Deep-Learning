@@ -7,7 +7,7 @@ Most of the implemented models are apt to automatically distinguish limits betwe
 
 # Methods
 To achieve our objective, we implemented state-of-the-art GANs and CNNs, most famous families in Deep Learning, tailored to the unique challenges of spinal deformity detection. Our approach involved fine-tuning the models using different techniques notably data augmentation techniques to effectively capture the intricate features indicative of various deformity types. This adaptation process was crucial, as existing models were not specifically designed for this mission. We chose GANs for their potential to generate synthetic data, which we anticipated would enhance the models' performance in detecting subtle deformities.
-
+![image (1) (2)](https://github.com/nabinabila/Vertebral-Deformities-Diagnosis-based-on-Deep-Learning/assets/52214161/a5535ca5-ad69-4489-b007-4287f6234268)
 # Overview of GAN
 Generative Adversarial Networks (GAN) introduced by Goodfellow is considered as one of the most powerful member of the neural network family, due to realistic data generation capacities.
 As showen in figure GANs operate by training two competing networks: a generator and a discriminator. The generator produces realistic synthetic samples from noise (the z-latent space), while the discriminator discerns between genuine and synthetic samples. This flexible architecture has been utilized for tasks like identifying the location of vertebrae, discs, and spinal shape.
