@@ -37,3 +37,5 @@ public SpineWeb (http://spineweb.digitalimaginggroup.ca)
 
 # Results
 Visually in figures, the illustration serves as a qualitative showcase of models proficiency in detecting spinal landmarks.
+![unnamed (3)](https://github.com/nabinabila/Vertebral-Deformities-Diagnosis-based-on-Deep-Learning/assets/52214161/a22b5ad9-1cf1-4288-85c1-f0b2c4434cf2)
+![image (1) (2)](https://github.com/nabinabila/Vertebral-Deformities-Diagnosis-based-on-Deep-Learning/assets/52214161/47efe82c-4f2b-4d75-9f6d-133e683e5803)
