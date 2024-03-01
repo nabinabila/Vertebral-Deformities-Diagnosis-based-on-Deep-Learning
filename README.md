@@ -30,7 +30,6 @@ Scikit-Learn
 
 Matplotlib
 
-à
 # Dataset
 Dataset provided by:
 
