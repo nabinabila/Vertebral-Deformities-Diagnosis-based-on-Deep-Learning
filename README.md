@@ -17,10 +17,21 @@ As showen in figure GANs operate by training two competing networks: a generator
 The main requirements are listed below:
 
 Tested with Keras 2.3.1
+
 Python 3.6
+
 OpenCV 3.4.2
+
 scikit-image 0.16.2
+
 Numpy
+
 Scikit-Learn
+
 Matplotlib
 
+à
+# Dataset
+Dataset provided by:
+
+public SpineWeb (http://spineweb.digitalimaginggroup.ca)
